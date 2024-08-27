@@ -1,6 +1,6 @@
 <template>
   <div>
-    <p>{{ msg }}</p>
+    <button type="button" class="btn bnt-primary">{{ msg }}</button>
   </div>
 </template>
 
